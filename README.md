@@ -17,8 +17,8 @@ Analysis of gym membership data using SQL to identify member behavior patterns, 
 - Aggregations (SUM, AVG, COUNT) for business metrics
 
 ## Files
-- `gym_analysis.sql` - All SQL queries
-- `gym_dataset.csv` - Raw data
+- `sql_queried_for_gym_dataset.sql` - All SQL queries
+- `gym_members_exercise_tracking.csv` - Raw data
 
 ## Tools
-SQL
+MySQL
